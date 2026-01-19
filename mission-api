@@ -1,0 +1,199 @@
+{
+  "missions": [
+    {
+      "id": 1,
+      "question": "What does HTML stand for?",
+      "priority": "low",
+      "xp": 75,
+      "isCompleted": false,
+      "isFailed": false,
+      "options": [
+        "Hyper Text Markup Language",
+        "High Text Machine Language",
+        "Hyper Tool Markup Language",
+        "None"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 2,
+      "question": "Which tag is used for paragraph?",
+      "priority": "low",
+      "xp": 75,
+      "isCompleted": false,
+      "isFailed": false,
+      "options": ["<div>", "<p>", "<span>", "<section>"],
+      "correctIndex": 1
+    },
+    {
+      "id": 3,
+      "question": "Which language is used for styling web pages?",
+      "priority": "low",
+      "xp": 75,
+      "isCompleted": false,
+      "isFailed": false,
+      "options": ["HTML", "CSS", "Java", "Python"],
+      "correctIndex": 1
+    },
+    {
+      "id": 4,
+      "question": "Which symbol is used for comments in JavaScript?",
+      "priority": "low",
+      "xp": 75,
+      "isCompleted": false,
+      "isFailed": false,
+      "options": ["<!-- -->", "//", "#", "**"],
+      "correctIndex": 1
+    },
+    {
+      "id": 5,
+      "question": "Which keyword declares a variable?",
+      "priority": "low",
+      "xp": 75,
+      "isCompleted": false,
+      "isFailed": false,
+      "options": ["var", "int", "string", "define"],
+      "correctIndex": 0
+    },
+    {
+      "id": 6,
+      "question": "What is JavaScript?",
+      "priority": "high",
+      "xp": 100,
+      "isCompleted": false,
+      "isFailed": false,
+      "options": [
+        "Markup language",
+        "Programming language",
+        "Database",
+        "Operating System"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 7,
+      "question": "Which method converts JSON to object?",
+      "priority": "high",
+      "xp": 100,
+      "isCompleted": false,
+      "isFailed": false,
+      "options": [
+        "JSON.stringify()",
+        "JSON.parse()",
+        "JSON.object()",
+        "parse.JSON()"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 8,
+      "question": "Which keyword is used to define an async function?",
+      "priority": "high",
+      "xp": 100,
+      "isCompleted": false,
+      "isFailed": false,
+      "options": ["await", "async", "promise", "setTimeout"],
+      "correctIndex": 1
+    },
+    {
+      "id": 9,
+      "question": "What does DOM stand for?",
+      "priority": "high",
+      "xp": 100,
+      "isCompleted": false,
+      "isFailed": false,
+      "options": [
+        "Document Object Model",
+        "Data Object Method",
+        "Digital Order Map",
+        "None"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 10,
+      "question": "Which array method returns a new array?",
+      "priority": "high",
+      "xp": 100,
+      "isCompleted": false,
+      "isFailed": false,
+      "options": ["forEach()", "map()", "push()", "pop()"],
+      "correctIndex": 1
+    },
+    {
+      "id": 11,
+      "question": "What is a closure in JavaScript?",
+      "priority": "super",
+      "xp": 150,
+      "isCompleted": false,
+      "isFailed": false,
+      "options": [
+        "Function with access to outer scope",
+        "A loop",
+        "A data type",
+        "A keyword"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 12,
+      "question": "What does useEffect with [] do?",
+      "priority": "super",
+      "xp": 150,
+      "isCompleted": false,
+      "isFailed": false,
+      "options": [
+        "Runs once on mount",
+        "Runs on every render",
+        "Runs on click",
+        "Never runs"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 13,
+      "question": "What is event bubbling?",
+      "priority": "super",
+      "xp": 150,
+      "isCompleted": false,
+      "isFailed": false,
+      "options": [
+        "Event moves from child to parent",
+        "Parent to child",
+        "API call",
+        "Async process"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 14,
+      "question": "What does REST stand for?",
+      "priority": "super",
+      "xp": 150,
+      "isCompleted": false,
+      "isFailed": false,
+      "options": [
+        "Representational State Transfer",
+        "Remote Execution System",
+        "Runtime Event Store",
+        "None"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 15,
+      "question": "What does immutability mean in blockchain?",
+      "priority": "super",
+      "xp": 150,
+      "isCompleted": false,
+      "isFailed": false,
+      "options": [
+        "Data cannot be changed",
+        "Fast transaction",
+        "Low gas fee",
+        "Centralized system"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}
